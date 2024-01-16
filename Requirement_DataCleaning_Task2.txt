@@ -1,0 +1,9 @@
+Data Cleaning Task 2
+Requirement:
+
+I want first three columns as it is
+I don't want to see %female , % male. Male value and female value
+I want that all ethnicity in on column including female and male
+I want value for Fully english proficimt, limited also.
+I want grades in one column from grade 1 to 12
+Last i want values for Economically Disadvataged
